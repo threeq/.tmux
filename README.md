@@ -21,5 +21,11 @@ $ cp .tmux/.tmux.conf.local .
 
 notes: `<prefix>` 我自己使用 `C-Space`
 
+3. 刷新配置
+
+```
+$ tmux source-file ~/.tmux.conf
+```
+
 更多详情请参考 https://github.com/gpakosz/.tmux
 
