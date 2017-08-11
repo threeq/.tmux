@@ -27,5 +27,9 @@ notes: `<prefix>` 我自己使用 `C-Space`
 $ tmux source-file ~/.tmux.conf
 ```
 
+4. 使用说明
+
+* `<prefix> a` 打开/关闭 synchronize-panes 模式
+
 更多详情请参考 https://github.com/gpakosz/.tmux
 
