@@ -30,6 +30,8 @@ $ tmux source-file ~/.tmux.conf
 4. 使用说明
 
 * `<prefix> a` 打开/关闭 synchronize-panes 模式
+* `<prefix> c-x` 关闭当前 session ，转到下一个session
+* `<prefix> x` 关闭当前 panel
 
 更多详情请参考 https://github.com/gpakosz/.tmux
 
